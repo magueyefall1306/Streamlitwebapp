@@ -32,5 +32,5 @@ L'application est conçue pour gérer différents types de fichiers : Amazon, Bu
 
 1. **Cloner le dépôt GitHub**  
 ```bash
-git clone <URL_DE_VOTRE_REPO>
-cd <NOM_DU_REPO>
+git clone (https://github.com/magueyefall1306/Streamlitwebapp.git
+cd Streamlitwebapp
