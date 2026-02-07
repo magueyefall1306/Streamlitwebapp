@@ -34,3 +34,5 @@ L'application est conçue pour gérer différents types de fichiers : Amazon, Bu
 ```bash
 git clone https://github.com/magueyefall1306/Streamlitwebapp.git
 cd Streamlitwebapp
+pip install streamlit pandas duckdb matplotlib seaborn
+streamlit run code.py
